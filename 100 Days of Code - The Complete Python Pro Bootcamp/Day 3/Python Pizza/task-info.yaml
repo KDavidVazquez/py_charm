@@ -15,11 +15,14 @@ files:
   - name: solution.py
     visible: true
     learner_created: false
+  - name: testing_copy.py
+    visible: true
+    learner_created: true
 status: Failed
 feedback:
   message: "'Welcome to Python Pizza Deliveries!\\nYour final bill is: $23.\\n' !=\
     \ 'Welcome to Python Pizza Deliveries!\\nYour final bill is: $20.\\n'"
-  time: "Sun, 31 May 2026 05:35:03 UTC"
+  time: "Sun, 28 Jun 2026 00:12:21 UTC"
   expected: |
     Welcome to Python Pizza Deliveries!
     Your final bill is: $23.

@@ -11,7 +11,7 @@ if size == "S":
         bill += 1
     if pepperoni + extra_cheese == "y":
         bill += 3
-if size == "M":
+elif size =="M":
     bill = 20
     if pepperoni == "y":
         bill += 3
@@ -19,7 +19,7 @@ if size == "M":
         bill += 1
     if pepperoni + extra_cheese =="y":
         bill += 4
-if size == "L":
+elif size == "L":
     bill = 25
     if pepperoni == "y":
         bill += 3
