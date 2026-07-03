@@ -35,6 +35,6 @@ if choice1 == "left":
         elif choice3 == "yellow":
             print("Barely opening the yellow door you are dazzled by the glitter of countless gold coins, armors and weapons. CONGRATS!!, YOU HAVE FOUND THE TREASURE!!")
     elif choice2 == "swim":
-        print("The river flow is very strong, after some time trying to reach the shore you are completely exhausted and get swifted by the river current. GIT GUT MATE.")
+        print("The river flow is very strong, after some time trying to reach the shore you are completely exhausted and get swifted by the river's current. GIT GUT MATE.")
 else:
     print("You have fell into a bandit ambush. GIT GUT MATE!!")

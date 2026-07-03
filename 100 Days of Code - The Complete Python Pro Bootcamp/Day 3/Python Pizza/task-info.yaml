@@ -15,9 +15,6 @@ files:
   - name: solution.py
     visible: true
     learner_created: false
-  - name: testing_copy.py
-    visible: true
-    learner_created: true
 status: Failed
 feedback:
   message: "'Welcome to Python Pizza Deliveries!\\nYour final bill is: $23.\\n' !=\
